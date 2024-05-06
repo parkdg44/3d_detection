@@ -14,6 +14,37 @@ and response tasks and elevator button operation tasks. The performance was conf
 
 ## Videos
 
-https://github.com/parkdg44/3d_detection/raw/main/videos/object_detection/object%20detection%201.mkv
+<details>
+<summary>Object Detection</summary>
 
-https://github.com/parkdg44/3d_detection/raw/main/videos/pedestrian_safe_avoidance/robot%20arm(real)%201.mp4
+<!-- summary 아래 한칸 공백 두어야함 -->
+https://github.com/parkdg44/3d_detection/assets/61260130/409f585b-9788-4537-84c0-c5749f07014b
+
+https://github.com/parkdg44/3d_detection/assets/61260130/50180a18-a527-4626-955d-aaa3633b6baf
+</details>
+
+<details>
+<summary>Pedestrian-safe avoidance</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+
+
+https://github.com/parkdg44/3d_detection/assets/61260130/08204c94-6982-49ec-9a11-b615adc2ca88
+
+https://github.com/parkdg44/3d_detection/assets/61260130/cd737350-ffe8-4e48-808e-2efb480283cf
+</details>
+
+<details>
+<summary>Autonomous elevator button operation</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+
+
+https://github.com/parkdg44/3d_detection/assets/61260130/37938fb2-81fe-443c-a0be-e51d476cf8dd
+
+https://github.com/parkdg44/3d_detection/assets/61260130/e58d5549-ceab-4ce8-8f7f-45f326b3aa16
+
+https://github.com/parkdg44/3d_detection/assets/61260130/d5e5ef69-7c03-44fd-88d3-88c745c0a98b
+
+https://github.com/parkdg44/3d_detection/assets/61260130/7d55d2f7-79a1-4e37-b029-21386eea6624
+</details>
